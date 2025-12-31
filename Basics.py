@@ -1,2 +1,5 @@
-print("Hello World")
-print("Answer is: ", 2+5)
+# List in python
+print("Python: Lists")
+cars = ["Tesla", "Hyunadi", "Toyota", "Tata", "Honda", "Audi"]
+print(cars)
+
