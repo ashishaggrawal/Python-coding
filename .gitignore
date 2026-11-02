@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Book example programs (publisher's code, kept local only)
+Starting_with_Python/*/examples/

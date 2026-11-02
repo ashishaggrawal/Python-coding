@@ -30,6 +30,7 @@ Every solution is a standalone script with the problem statement and worked exam
 ├── Easy/      Conditionals and single loops
 ├── Medium/    Nested loops, patterns and number theory
 ├── Hard/      Multi-step algorithmic problems
+├── Starting_with_Python/   Exercises and notes from Tony Gaddis's textbook
 └── *.py       Standalone practice problems
 ```
 
