@@ -8,8 +8,8 @@ Problem descriptions are written in my own words. The book's example programs ar
 
 | Chapter | Topic | Exercises Done | Notes | Status |
 |---------|-------|----------------|-------|--------|
-| 1 | [Introduction to Computers and Programming](ch01_introduction_to_computers_and_programming/) | – | [Notes](ch01_introduction_to_computers_and_programming/notes.md) | ⬜ |
-| 2 | [Input, Processing, and Output](ch02_input_processing_output/) | 0 | [Notes](ch02_input_processing_output/notes.md) | ⬜ |
+| 1 | [Introduction to Computers and Programming](ch01_introduction_to_computers_and_programming/) | 2 | [Notes](ch01_introduction_to_computers_and_programming/notes.md) | ✅ |
+| 2 | [Input, Processing, and Output](ch02_input_processing_output/) | 5 | [Notes](ch02_input_processing_output/notes.md) | 🟡 |
 | 3 | [Decision Structures and Boolean Logic](ch03_decision_structures_and_boolean_logic/) | 0 | [Notes](ch03_decision_structures_and_boolean_logic/notes.md) | ⬜ |
 | 4 | [Repetition Structures](ch04_repetition_structures/) | 0 | [Notes](ch04_repetition_structures/notes.md) | ⬜ |
 | 5 | [Functions](ch05_functions/) | 0 | [Notes](ch05_functions/notes.md) | ⬜ |
