@@ -81,10 +81,6 @@ print(ord('A'))         # 65          -> character to its code
 print(chr(65))          # A           -> code to character
 ```
 
-## Mistakes I Made
-
--
-
 ## Questions / To Review
 
 -

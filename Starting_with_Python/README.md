@@ -29,9 +29,8 @@ Problem descriptions are written in my own words. The book's example programs ar
 
 ```
 chNN_topic/
-├── notes.md       Key concepts, syntax, mistakes and open questions
-├── exercises/     My solutions: exNN_short_name.py
-└── examples/      Book programs typed in for practice (local only, not committed)
+├── notes.md       Key concepts, syntax and open questions
+└── exercises/     My solutions: exNN_short_name.py
 ```
 
 ## Running the Code

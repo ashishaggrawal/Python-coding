@@ -10,10 +10,6 @@
 
 ```
 
-## Mistakes I Made
-
--
-
 ## Questions / To Review
 
 -

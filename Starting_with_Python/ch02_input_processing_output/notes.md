@@ -117,10 +117,6 @@ print(f'Name: {name}, '
       'Age: {age}')     # Name: Ashish, Age: {age}   <- second part is missing the f
 ```
 
-## Mistakes I Made
-
--
-
 ## Questions / To Review
 
 -
