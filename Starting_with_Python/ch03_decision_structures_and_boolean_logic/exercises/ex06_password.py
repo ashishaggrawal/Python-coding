@@ -21,4 +21,4 @@ print(test :=27)
 # Example 2:
 
 
-print("Full Time") if (pay := int(input("Enter your hours: "))) >35 else print("Part Time")
+print("Full Time") if (hours := int(input("Enter your hours: "))) >35 else print("Part Time")
