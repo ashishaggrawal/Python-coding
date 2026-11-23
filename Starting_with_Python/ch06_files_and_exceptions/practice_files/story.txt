@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+Python is a great language for beginners.
+Practice makes perfect.
+Files let programs save data between runs.
