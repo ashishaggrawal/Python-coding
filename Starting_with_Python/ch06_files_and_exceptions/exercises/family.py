@@ -1,11 +1,11 @@
 def main():
     family = open(r'.\practice_files\familyInfo.txt', 'w')
-    family.write('Reena Patel\n')
-    family.write('Ashish\n')
-    family.write('Ram\n')
-    family.write('Gita\n')
-    family.write('Veer\n')
-    family.write('Shyam\n')
+    family.write('Maya Collins\n')
+    family.write('Leo\n')
+    family.write('Nora\n')
+    family.write('Owen\n')
+    family.write('Isla\n')
+    family.write('Felix\n')
 
     family.close()
 

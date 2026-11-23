@@ -4,13 +4,13 @@ def main():
 
     #write the names of new employees in this file
 
-    outfile.write('John\n')
-    outfile.write('Sita\n')
-    outfile.write('Ashish\n')
-    outfile.write('Priya\n')
-    outfile.write('Reena\n')
-    outfile.write('Aru\n')
-    outfile.write('Sonal')
+    outfile.write('Tom\n')
+    outfile.write('Ava\n')
+    outfile.write('Ben\n')
+    outfile.write('Zoe\n')
+    outfile.write('Sam\n')
+    outfile.write('Mia\n')
+    outfile.write('Eli')
     # we will close the files now
     outfile.close()
 
